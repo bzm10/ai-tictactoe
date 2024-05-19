@@ -9,7 +9,7 @@ TicTacToe AI is a Python package that allows you to play the classic Tic Tac Toe
 You can install TicTacToe AI using pip:
 
 ```
-pip install tictactoe-ai
+pip install ai-tictactoe
 ```
 
 ## Usage
