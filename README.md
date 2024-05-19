@@ -16,7 +16,7 @@ pip install ai-tictactoe
 
 ```python
 # Import the TicTacToeAI class from the tictactoe module
-from tictactoe_ai import TicTacToeAI
+from ai_tictactoe import TicTacToeAI
 
 # Create an instance of the TicTacToeAI class
 game = TicTacToeAI()
